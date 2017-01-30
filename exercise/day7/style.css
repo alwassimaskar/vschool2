@@ -1,0 +1,10 @@
+body {
+    
+}
+.firstClass {
+    background-color: pink;
+    width : 90%;
+    height : 50px;
+    border-bottom-color: black;
+    border-style: solid
+}
